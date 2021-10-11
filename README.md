@@ -6,9 +6,13 @@ Exercise Instructions as follows:
 For this exercise you will create four lasses of vehicles. The first class should be named **Car**. This will be the base class for three other classes, **Mitsubishi**, **Holden**, and **Ford**.
 
 The first class contains four member variables, or fields, with these names and conditions:
+
 **- engine** of type **boolean**
+
 **- cylinders** of type **int**
+
 **- name** of type **String**
+
 **- wheels** of type **int**
 
 All four member variables should have **private** access.
